@@ -27,6 +27,11 @@ THEORY(BEST)
 https://cses.fi/book/book.pdf 
 
 
+#ML ALGO SHEET
+https://products.123ofai.com/qnalab/lists/Grind75ML
+
+
+
 KEY IS SOLVE PROBLEMS ON codeforces can be topicwise 1st
 Topics I would recommend for beginners is Binary Search,Two pointers,Greedy, DP
 Then move to prefix sum,segment trees,trees,graphs
